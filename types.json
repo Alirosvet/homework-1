@@ -1,0 +1,10 @@
+{
+"number": 128,
+"string": "privet",
+"boolean": true,
+"object": {
+  "month": "January",
+  "day": 20
+},
+"null": null
+}
